@@ -1,0 +1,32 @@
+.outside-box{
+   height: 150px;
+   width: 450px;
+   border-radius: 20px;
+   background-color: cadetblue; 
+}
+
+.inner-box{
+    width: 80%;
+    height: 100%;
+    background-color: coral;
+    margin-left: 10%;
+   
+}
+.title{
+    padding-top: 0px;
+    padding-left: 100px;
+}
+input{
+    margin-left: 60px;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding:10px 20px 10px 20px; 
+}
+button{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+p{
+    margin-left: 120px;
+}
